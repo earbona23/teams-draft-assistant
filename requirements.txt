@@ -1,0 +1,4 @@
+# Tres dependencias. La interfaz usa tkinter, que viene con Python.
+msal>=1.28,<2             # autenticacion con Microsoft (flujo de codigo de dispositivo)
+msal-extensions>=1.1,<2   # cache de token cifrado: DPAPI en Windows, Keychain en macOS, libsecret en Linux
+requests>=2.31,<3         # llamadas a Graph y a Groq

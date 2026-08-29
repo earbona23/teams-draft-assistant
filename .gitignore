@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# NUNCA al repositorio: el token de Microsoft y la clave de Groq viven aca, cifrados.
+.teams-draft-assistant/
+config.json
+*.bin
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
