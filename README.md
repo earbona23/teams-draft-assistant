@@ -1,13 +1,13 @@
 # Asistente de borradores para Microsoft Teams
 
-> **Snapshot, not maintained.** This tool works and its tests pass, but it is not under
-> active development: I am not adding features and I do not review pull requests on a
-> schedule. Issues are welcome and I do read them — a reply may take a while. Last
-> substantive change: September 2026.
+> **Instantánea, sin mantenimiento activo.** La herramienta funciona y sus tests pasan,
+> pero no está en desarrollo: no le agrego funciones ni reviso pull requests con una
+> cadencia fija. Los issues son bienvenidos y los leo — la respuesta puede tardar. Último
+> cambio de fondo: septiembre de 2026.
 >
-> Maintained instead: [revtriage](https://github.com/earbona23/revtriage),
+> En cambio sí mantengo: [revtriage](https://github.com/earbona23/revtriage),
 > [entra-tripwire](https://github.com/earbona23/entra-tripwire),
-> [entraform](https://github.com/earbona23/entraform) and
+> [entraform](https://github.com/earbona23/entraform) y
 > [vantage](https://github.com/earbona23/vantage).
 
 Lee tus chats **1:1** de Teams, redacta una respuesta con Groq, y **vos la enviás**.
